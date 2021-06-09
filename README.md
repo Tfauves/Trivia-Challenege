@@ -1,3 +1,3 @@
 # Trivia-Challenege
-first trivia game build
-A simple trivia game build. Challenge: to use API data and localstorage
+first trivia game.
+A simple trivia game build where the main challenge is to use API data and localstorage.
